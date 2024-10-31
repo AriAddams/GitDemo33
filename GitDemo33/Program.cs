@@ -4,7 +4,9 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Console.WriteLine("Hejsan Världen");
+          Console.WriteLine( "Böter:" + Helpers.CalculateFine(15, 5));
         }
     }
 }
+ 
